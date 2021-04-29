@@ -1,0 +1,9 @@
+web view (html, javascript로 구현된 web을 그대로 linked한 것)
+native app (android api를 가져와 사용한 것)
+
+어떻게 구현하는가?
+aws, azure, gcp(서비스를 이횽해서 서버 구축)
+db 구축 후 node js등으로 연결하는 것 
+
+
+앱 개발을 위한 클라우드, 데이터 베이스
